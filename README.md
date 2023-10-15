@@ -1,4 +1,4 @@
-<h1 align="center">💐 ٱلسَّلَامُ عَلَيْكُمْ‎‎ 🪷, I'm Minhazul Islam</h1>
+<h1 align="center">I'm Minhazul Islam, 💐 ٱلسَّلَامُ عَلَيْكُمْ‎‎ 🪷</h1>
 <h3 align="center">A passionate Laravel developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on [DAC-Rapide](https://dac-rapide.com)
