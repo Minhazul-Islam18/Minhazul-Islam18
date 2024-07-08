@@ -2,8 +2,6 @@
 <h3 align="center">A passionate PHP & Laravel developer from Bangladesh</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on [Luminous Labs](https://luminouslabsbd.com/)
-
 - 🌱 I’m currently learning **Laravel,React, Vue & Inertia Js**
 
 - 📫 How to reach me **minhaz019166@gmail.com**
