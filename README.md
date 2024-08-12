@@ -1,10 +1,6 @@
 <div align="center">
 <img src="https://i.ibb.co/cgDkxjQ/pngegg.png" align="center" style="width: 100%" />
 </div>  
-  <div style="text-align: center; background-color: white; padding: 10px;">
-  <img src="https://i.ibb.co/cgDkxjQ/pngegg.png" style="width: 100%;" />
-</div>
-
 
 ### <div align="center">I'm Minhazul islam, a full-time full-stack developer 👨‍💻 working since 2021 🚀</div>  
   
