@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/cgDkxjQ/pngegg.png" align="center" style="width: 100%" />
+<img src="https://i.ibb.co/q9XYRBY/1000-F-356432764-Nh3-K1g-Q7y8rgoit-RHx-Yd1nayp-Izv1h-ZE.jpg" align="center" style="width: 100%" />
 </div>  
 
 ### <div align="center">I'm Minhazul islam, a full-time full-stack developer 👨‍💻 working since 2021 🚀</div>  
