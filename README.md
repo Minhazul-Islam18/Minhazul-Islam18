@@ -4,8 +4,6 @@
 
 ### <div align="center">I'm Minhazul islam, a full-time full-stack developer 👨‍💻 working since 2021 🚀</div>  
   
-
-- 🔭 I’m currently working on [Remote]()  
   
 
 - 🌱 I’m currently learning React & Golang  
