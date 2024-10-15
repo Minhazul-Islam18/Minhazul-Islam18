@@ -85,10 +85,9 @@
   
 
 <br/>  
+
+## Github Stats  
 <div>
     <img alt="Minhazul-Islam18's Github Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=Minhazul-Islam18&show_icons=true&theme=dracula&count_private=true&hide_border=true">
     <img alt="Minhazul-Islam18's GitHub Streak" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Minhazul-Islam18&theme=dracula&hide_border=true">
 </div>
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Minhazul-Islam18&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
