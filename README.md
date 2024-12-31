@@ -91,4 +91,3 @@
     <img alt="Minhazul-Islam18's Github Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=Minhazul-Islam18&show_icons=true&theme=dracula&count_private=true&hide_border=true">
     <img alt="Minhazul-Islam18's GitHub Streak" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Minhazul-Islam18&theme=dracula&hide_border=true">
 </div>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Minhazul-Islam18&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
