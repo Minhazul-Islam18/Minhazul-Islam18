@@ -3,11 +3,7 @@
 </div>  
 
 ### <div align="center">I'm Minhazul islam, a full-time full-stack developer 👨‍💻 working since 2019 🚀</div>  
-  
-  
-
-- 🌱 I’m currently learning React, VueJS & Golang  
-  
+    
 
 - ❓ Ask me about anything related to PHP stack and related technologies  
   
