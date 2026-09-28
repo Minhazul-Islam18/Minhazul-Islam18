@@ -8,9 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/pills.svg" alt="Coding since 2019. Focus: PHP ecosystem." />
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Minhazul-Islam18&label=Profile%20views&color=BD93F9&style=flat-square" alt="Profile views" />
+  <img src="./assets/generated/pills.svg" alt="Coding since 2019. Focus: PHP ecosystem. Profile views." />
 </p>
 
 <br/>
@@ -70,17 +68,17 @@
   </picture>
 </p>
 
+<!-- These three cards are rebuilt twice a day by .github/workflows/profile-cards.yml -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Minhazul-Islam18&show_icons=true&theme=dracula&count_private=true&hide_border=true&border_radius=12" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhazul-Islam18&layout=compact&theme=dracula&hide_border=true&border_radius=12" alt="Top languages" />
+  <img src="./assets/generated/stats.svg" width="100%" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Minhazul-Islam18&theme=dracula&hide_border=true&border_radius=12" alt="GitHub streak" />
+  <img src="./assets/generated/langs.svg" width="100%" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Minhazul-Islam18&theme=dracula&hide_border=true&radius=12" alt="Contribution activity graph" />
+  <img src="./assets/generated/activity.svg" width="100%" alt="Contribution activity, last 30 days" />
 </p>
 
 <!-- =============================== FOOTER =============================== -->
@@ -88,3 +86,6 @@
 <p align="center">
   <img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by. Let's build something good together." />
 </p>
+
+<!-- Invisible profile-view counter: keeps counting visits for the "Profile views" pill. Don't remove. -->
+<img src="https://komarev.com/ghpvc/?username=Minhazul-Islam18" width="1" height="1" alt="" />
