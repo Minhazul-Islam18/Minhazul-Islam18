@@ -1,89 +1,90 @@
-<div align="center">
-<img src="https://i.ibb.co/q9XYRBY/1000-F-356432764-Nh3-K1g-Q7y8rgoit-RHx-Yd1nayp-Izv1h-ZE.jpg" align="center" style="width: 100%" />
-</div>  
+<!-- ============================== HERO ============================== -->
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Minhazul Islam. Full-stack developer, building for the web since 2019." />
+</p>
 
-### <div align="center">I'm Minhazul islam, a full-time full-stack developer 👨‍💻 working since 2019 🚀</div>  
-    
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=500&size=20&duration=3500&pause=1400&color=FF79C6&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Minhazul;Full-time+full-stack+developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Shipping+web+apps+since+2019+%F0%9F%9A%80;Developer+by+choice+%F0%9F%9F%A2" alt="Typing intro" />
+</p>
 
-- ❓ Ask me about anything related to PHP stack and related technologies  
-  
+<p align="center">
+  <img src="./assets/pills.svg" alt="Coding since 2019. Focus: PHP ecosystem." />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Minhazul-Islam18&label=Profile%20views&color=BD93F9&style=flat-square" alt="Profile views" />
+</p>
 
-- ⚡ Fun fact: Developer by choice.🟢  
-  
+<br/>
 
-<br/>  
+<!-- ============================== ABOUT ============================== -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/headings/about-dark.svg" />
+    <img src="./assets/headings/about-light.svg" width="100%" alt="About me" />
+  </picture>
+</p>
 
+<p align="center">
+  <img src="./assets/about/about.svg" width="100%" alt="I build for the web, end to end. Full-time full-stack developer since 2019, working mostly in PHP, with modern JavaScript on the front. Ask me about PHP and its ecosystem. Fun fact: developer by choice." />
+</p>
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<br/>
 
+<!-- ============================ TECH STACK ============================ -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/headings/stack-dark.svg" />
+    <img src="./assets/headings/stack-light.svg" width="100%" alt="Tech stack" />
+  </picture>
+</p>
 
+<p align="center">
+  <img src="./assets/stack.svg" width="100%" alt="Frontend: HTML5, CSS3, JavaScript, React, Vue.js, Tailwind, Bootstrap, Mantine UI, shadcn/ui, WordPress. Backend: PHP, Laravel, Symfony, CodeIgniter. Database and API: MySQL, PostgreSQL, SQLite, GraphQL. DevOps and Cloud: AWS, Docker, Cloudflare." />
+</p>
 
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-</div>
+<br/>
 
-</td><td valign="top" width="33%">
+<!-- ============================== CONNECT ============================== -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/headings/connect-dark.svg" />
+    <img src="./assets/headings/connect-light.svg" width="100%" alt="Connect with me. Have a project in mind or just want to talk code? Pick whichever is easiest for you." />
+  </picture>
+</p>
 
+<!-- Replace the placeholder links: LinkedIn URL, email, WhatsApp number (country code, no + or spaces), Telegram username -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile"><img src="./assets/connect/linkedin.svg" width="380" alt="LinkedIn — Career &amp; professional network" /></a>
+  <a href="mailto:you@example.com"><img src="./assets/connect/mail.svg" width="380" alt="Mail — Best for project inquiries" /></a>
+  <br/>
+  <a href="https://wa.me/8801XXXXXXXXX"><img src="./assets/connect/whatsapp.svg" width="380" alt="WhatsApp — Quick questions &amp; chats" /></a>
+  <a href="https://t.me/your_username"><img src="./assets/connect/telegram.svg" width="380" alt="Telegram — Message me anytime" /></a>
+</p>
 
+<br/>
 
-### Backend  
-<div align="center">  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
-<a href="https://codeigniter.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/codeigniter.svg" alt="CodeIgniter" height="50" /></a>  
-<a href="https://symfony.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/symfony_black_03.svg" alt="Symfony" height="50" /></a>  
-</div>
+<!-- =============================== STATS =============================== -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/headings/stats-dark.svg" />
+    <img src="./assets/headings/stats-light.svg" width="100%" alt="GitHub stats" />
+  </picture>
+</p>
 
-</td><td valign="top" width="33%">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Minhazul-Islam18&show_icons=true&theme=dracula&count_private=true&hide_border=true&border_radius=12" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhazul-Islam18&layout=compact&theme=dracula&hide_border=true&border_radius=12" alt="Top languages" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Minhazul-Islam18&theme=dracula&hide_border=true&border_radius=12" alt="GitHub streak" />
+</p>
 
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Minhazul-Islam18&theme=dracula&hide_border=true&radius=12" alt="Contribution activity graph" />
+</p>
 
-### Database (RDBMS)  
-<div align="center">  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="#" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="#" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="#" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="#" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="#" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="#" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-## Github Stats  
-<div>
-    <img alt="Minhazul-Islam18's Github Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=Minhazul-Islam18&show_icons=true&theme=dracula&count_private=true&hide_border=true">
-    <img alt="Minhazul-Islam18's GitHub Streak" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Minhazul-Islam18&theme=dracula&hide_border=true">
-</div>
+<!-- =============================== FOOTER =============================== -->
+<br/>
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by. Let's build something good together." />
+</p>
